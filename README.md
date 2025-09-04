@@ -10,14 +10,11 @@
 
 ## 🛠 Skills & Tools
 - **Languages:** Python, JavaScript, HTML, CSS  
-- **Tools:** Git, GitHub, VS Code  
 - **Other Interests:** Graphic Design, Video Editing, Social Media Management  
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lasen-D&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lasen-D&layout=compact)  
+  
 
 ---
 
