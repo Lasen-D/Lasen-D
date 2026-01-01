@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# Hi 👋, I'm Lasen Dulsath
+# Hi 👋, I'm Lasen Dulsath
 
 🎓 Software Engineering student 
 .  
